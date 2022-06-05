@@ -1,0 +1,14 @@
+{
+  "name": "catcoin",
+  "version": "1.0.0",
+  "description": "This is a tentative blockchain currency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mylos Cat",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
